@@ -1,0 +1,52 @@
+.card{
+  
+  border: 3px solid #93291e;
+  border-radius: 5px;
+
+
+  &--disabled{
+    opacity: .5;
+
+  }
+
+  &__card-wrapper{
+    height: 100%;
+  }
+
+  &__img{
+    display: block;
+    height: 100%;
+    opacity: 0;
+  }
+
+  &__img--show{
+    animation: showImg .4s forwards;
+
+  }
+
+}
+
+@keyframes showImg{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
+
+
+// @keyframes disabled{
+//   0%{
+//     opacity: 1;
+//     // transform: scale(1);
+//   }
+//   50%{
+//     opacity: 1;
+//     //transform: scale(1.15);
+//   }
+//   100%{
+//     opacity: .5;
+//     // transform: scale(1);
+//   }
+// }

@@ -1,0 +1,38 @@
+*, *::before, *::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+html{
+  font-size: 100%;
+
+  @media(max-width: 685px){
+    font-size: 80%;
+  }
+  @media(max-width: 537px){
+    font-size: 62.5%;
+  }
+  @media(max-width: 424px){
+    font-size: 50%;
+  }
+}
+body{
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+ul{
+  list-style: none;
+}
+img{
+  width: 100%;
+}
+a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.container{
+  max-width: 1000px;
+  padding: 0 1rem;
+  margin: 0 auto;
+}

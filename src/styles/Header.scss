@@ -1,0 +1,14 @@
+.header{
+  height: 5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  &__heading{
+    background: -webkit-linear-gradient(#ed213a, #93291e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+}
