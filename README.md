@@ -1,5 +1,5 @@
-# Polind-PSD-to-html
-![aplik](https://user-images.githubusercontent.com/30511389/63913367-3a7ca900-ca30-11e9-95de-f3807983ed93.png)
+#Avengers-Memory-Game
+![png](https://user-images.githubusercontent.com/30511389/63913367-3a7ca900-ca30-11e9-95de-f3807983ed93.png)
 <h2>Podgląd na NETLIFY: https://quirky-sammet-e0f320.netlify.com/</h2>
 <h3>Opis</h3>
 Aplikacja stworzona przy użyciu React w ramach przećwiczenia:
