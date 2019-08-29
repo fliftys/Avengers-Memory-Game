@@ -16,6 +16,6 @@ Aplikacja stworzona przy użyciu React w ramach przećwiczenia:
   <li>CSS3 (SCSS)</li>
 </ul>
 
-<h4>Użyte technologie</h4>
+<h4>Użyte narzędzia</h4>
 Podczas kodowania korzystałem z programów/narzędzi: Vs code, npm, node-sass, create-react-app
 
