@@ -1,0 +1,8 @@
+[
+  {"name": "captainAmerica", "url": "/data/img/captain-america.jpg", "isDiscovered":false, "enable": true},
+  {"name": "blackPanther", "url": "/data/img/blackpanther.jpg", "isDiscovered":false, "enable": true},
+  {"name": "doctorStrange", "url": "/data/img/doctorstrange.jpg", "isDiscovered":false, "enable": true},
+  {"name": "hulk", "url": "/data/img/hulk.jpg", "isDiscovered":false, "enable": true},
+  {"name": "ironMan", "url": "/data/img/iron-man.jpg", "isDiscovered":false, "enable": true},
+  {"name": "spiderMan", "url": "/data/img/spiderman.jpg", "isDiscovered":false, "enable": true}
+]
